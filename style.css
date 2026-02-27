@@ -99,3 +99,7 @@ form button {
 .to p{
     padding-bottom: 5px;
 }
+
+.container h1{
+  text-align: center;
+}
